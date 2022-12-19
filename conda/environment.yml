@@ -1,0 +1,23 @@
+name: stable_animations
+channels:
+  - defaults
+  - conda-forge
+  - fastai
+dependencies:
+  - pytorch
+  - torchaudio
+  - torchvision
+  - transformers
+  - accelerate
+  - diffusers
+  - scipy
+  - ftfy
+  - scipy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pip
+  - pip:
+    - opencv-python
+
+

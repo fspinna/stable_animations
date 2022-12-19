@@ -1,0 +1,7 @@
+torch
+scipy
+opencv-python
+tqdm
+transformers
+diffusers
+ftfy
