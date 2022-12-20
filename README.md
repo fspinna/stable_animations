@@ -3,7 +3,7 @@ Generates interpolations between close instances in the latent space.
 
 ## Examples
 Check out the [Jupyter Notebook](https://github.com/fspinna/stable_animations/blob/main/notebooks/example.ipynb)!
-
+![Alt Text]()
 
 ## How to install
 Standard
