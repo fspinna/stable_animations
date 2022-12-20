@@ -7,3 +7,4 @@ tqdm
 transformers
 diffusers
 ftfy
+notebook
