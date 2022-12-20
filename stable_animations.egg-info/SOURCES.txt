@@ -1,0 +1,9 @@
+README.md
+setup.py
+stable_animations/__init__.py
+stable_animations/main.py
+stable_animations.egg-info/PKG-INFO
+stable_animations.egg-info/SOURCES.txt
+stable_animations.egg-info/dependency_links.txt
+stable_animations.egg-info/requires.txt
+stable_animations.egg-info/top_level.txt

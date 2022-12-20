@@ -15,6 +15,6 @@ setup(
     author='Francesco Spinnato',
     author_email='',
     description='',
-    install_requires=requirements,
-    extras_require={"cuda": ["--extra-index-url https://download.pytorch.org/whl/cu116"]}
+    install_requires=[requirements]
+    # extras_require={"cuda": ["--extra-index-url https://download.pytorch.org/whl/cu116"]}
 )
