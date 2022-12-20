@@ -1,4 +1,4 @@
-name: stable_animations
+name: stableanimations
 channels:
   - defaults
   - conda-forge

@@ -7,9 +7,9 @@ with open(path.join(here, "requirements.txt"), encoding="utf-8") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name='stable_animations',
+    name='stableanimations',
     version='',
-    packages=['stable_animations'],
+    packages=['stableanimations'],
     url='',
     license='',
     author='Francesco Spinnato',
